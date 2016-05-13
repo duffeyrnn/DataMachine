@@ -25,7 +25,7 @@ namespace HorseRacingStrategyMachine
                 dateList.Add("11-05-2016");
                 dateList.Add("28-04-2016");
                 dateList.Add("29-04-2016");
-                dateList.Add("30-04-2016");
+                dateList.Add("30-04-2016")
                 return dateList;
             }
         }
